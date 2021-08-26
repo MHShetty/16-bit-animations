@@ -6,6 +6,6 @@ A simple 16-bit assembly program (for DOS) that calculates the salary of 10 empl
 
 While it might be tempting to directly run the `main.exe` file on Windows to see the program run, this program was originally designed for 16-bit systems (specifically DOS) and modern Windows variants are mainly built in 32/64-bit systems and most do not have backward compatibility for 16-bit legacy programs. So a 16-bit system or environment such as DOSBox setup most likely would be required to run this program.
 
-DOSBox: https://www.dosbox.com/
+**DOSBox**: https://www.dosbox.com/
 
-DOSBox with TASM pre-installed (Direct Link): http://www.technorange.com/wp-content/uploads/Tasm%201.4%20Windows%207-Windows%208%2064%20bit%20Techapple.net.exe
+**DOSBox with TASM pre-installed** (Direct Link): http://www.technorange.com/wp-content/uploads/Tasm%201.4%20Windows%207-Windows%208%2064%20bit%20Techapple.net.exe
