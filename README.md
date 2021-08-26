@@ -8,4 +8,6 @@ While it might be tempting to directly run the `main.exe` file on Windows to see
 
 **DOSBox**: https://www.dosbox.com/
 
-**DOSBox with TASM pre-installed** (Direct Link): http://www.technorange.com/wp-content/uploads/Tasm%201.4%20Windows%207-Windows%208%2064%20bit%20Techapple.net.exe
+**DOSBox with Turbo utilities pre-installed** (Direct Link): http://www.technorange.com/wp-content/uploads/Tasm%201.4%20Windows%207-Windows%208%2064%20bit%20Techapple.net.exe
+
+Note: Some prior experience of setting up DOS(Box) might be required in order to run the program.
